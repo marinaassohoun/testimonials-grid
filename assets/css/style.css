@@ -1,0 +1,29 @@
+.post__meta {
+  display: flex;
+
+  gap: 0.5rem;
+}
+.author__image {
+  width: 2.5em;
+  border-radius: 1.5em;
+  float: left;
+}
+
+article {
+  background-color: grey;
+  margin: 1em;
+  border-radius: 0.4em;
+  padding: 1em;
+}
+
+.attribution p {
+  margin: 0.5em;
+}
+.attribution {
+  color: hsl(220, 15%, 55%);
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
